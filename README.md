@@ -11,7 +11,7 @@ The objective of this project is to use data science techniques to solve a real-
 - Data was collected using Space X API
 - Web scraping from Wikipedia
 
-All data files are in **'data'** directory:
+All data files are in **'data'** directory.
 
 
 ## Data collection Methodology
@@ -44,7 +44,7 @@ The code for the project is contained in the **'notebooks'** directory. There ar
 - **07_jupyter_labs_machine_learning_prediction.ipynb** (Perform predictive analysis using classification models)
 - **08_dash_app.py** (Perform interactive visual analytics using Plotly Dash)
 
-##Report
+## Report
 
 The report for the project is contained in the report directory. The **'report'** is in the form of PDF presentation and contains a detailed explanation of the project methodology and results.
 
