@@ -11,6 +11,9 @@ The objective of this project is to use data science techniques to solve a real-
 - Data was collected using Space X API
 - Web scraping from Wikipedia
 
+All data files are in **'data'** directory:
+
+
 ## Data collection Methodology
 
 - The response content was decoded as a JSON using the ".json()" function and then transformed into a Pandas dataframe using ".json_normalize()".
