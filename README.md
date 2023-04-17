@@ -48,6 +48,6 @@ The code for the project is contained in the **'notebooks'** directory. There ar
 
 The report for the project is contained in the report directory. The **'report'** is in the form of PDF presentation and contains a detailed explanation of the project methodology and results.
 
-##Conclusion
+## Conclusion
 
 This project demonstrates the application of data science techniques to solve a real-world problem. The trained machine learning models can be used by stakeholders to predict the severity of accidents and take appropriate action to mitigate their effects.
